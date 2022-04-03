@@ -35,7 +35,7 @@ function calistir(e){
       </p>`;
     }else{
       thankU.className='container-warn-block';
-    thankU.innerHTML= ` <img src="images/circle-exclamation-solid.svg" alt="" <i class="fa-solid fa-circle-exclamation"></i>> 
+    thankU.innerHTML= ` <img src="images/circle-exclamation-solid.svg" alt="" <i class="fa-solid fa-circle-exclamation"></i> 
       
       <h1>Please Select any Rating!</h1>`;
 
